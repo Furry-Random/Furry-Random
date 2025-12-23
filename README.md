@@ -1,16 +1,11 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Furry-Random/Furry-Random** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on jonkler-exe, (ainda não foi publicado)
+- 🌱 I’m currently learning como usa o GitHub, e um pouco de Python e C
+- 👯 I’m looking to collaborate on @Davi-Gon
+- 🤔 I’m looking for help with como tornar a tecnologia divertida novamente
+- 💬 Ask me about o existencialismo, sou bem iniciante em filosofia, mas podemos conversar um pouco sobre
+- 📫 How to reach me: não quero papo (sou tímido até online)
+- 😄 Pronouns: ele/dele/Furry Random
+- ⚡ Fun fact: Eu sou furry, (avá, é mesmo?), e também sou aprendiz de tudo, e mestre em nada.
+--> *FR!*
