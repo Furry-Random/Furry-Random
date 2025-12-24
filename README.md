@@ -29,15 +29,15 @@ _Peguei a imagem [aqui](https://br.pinterest.com/pin/403705554070034520/), créd
 🧡 [Clique aqui](https://soundcloud.com/furryrandom?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) para ir para a minha Soundcloud
 
 ## Algumas furrys incríveis
-Kathrin
+Kathrin:
 
 ![Kathrin](https://static.wikia.nocookie.net/twokinds/images/f/f9/Kathrin_Vaughan_profile.png/revision/latest?cb=20180717045423)
 
-Zira
+Zira:
 
 ![Zira](https://static.wikia.nocookie.net/disney/images/4/4b/Zira.png/revision/latest/scale-to-width-down/1200?cb=20190223144948)
 
-Flora
+Flora:
 
 ![Flora](https://static.wikia.nocookie.net/twokinds/images/3/35/Flora_profile.png/revision/latest/thumbnail/width/360/height/360?cb=20150630205452)
 
