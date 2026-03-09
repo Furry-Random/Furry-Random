@@ -42,10 +42,10 @@ Flora:
 ![Flora](https://static.wikia.nocookie.net/twokinds/images/3/35/Flora_profile.png/revision/latest/thumbnail/width/360/height/360?cb=20150630205452)
 
 ## Qual é o melhor? Windows ou Linux? 🪟🐧
-Na minha opinião, nenhum é bom, eu só uso os dois por causa do captalismo, se não fosse o captalismo eu estaria pelado no meio do mato caçando frutinhas, (não duraria um dia vivo).
+Na minha opinião, os dois sistemas são bons, sou feliz nos dois lados ao mesmo tempo que enfrento bugs estranhos, ninguém é perfeito, mas se fosse pra escolher um, acho que ficaria com o linux Mint mesmo.
 
-Utilizo, _para quem ficou curioso:_
-- Windows 11
-- Linux Mint
+Utilizo:
+- Windows 11 home
+- Linux Mint 22.3 - Cinnamon
 
 _FR!_
