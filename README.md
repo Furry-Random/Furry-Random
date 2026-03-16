@@ -7,15 +7,14 @@ _Isso não te dá uma conquista na Steam_, mas considere-se sortudo!
 
 ## Um pouco sobre mim ✨
 
-- 🔭 Estou atualmente trabalhando, (quando tenho forças) no jonkler-exe (joke virus)
+- 🔭 Estou atualmente trabalhando em projetos pessoais, (confira meus repositórios! 😺)
 - 🌱 Estou aprendendo como usa o GitHub, um pouco de Python sozinho e linguagem C na faculdade (Engenharia Eletrônica na [UTFPR](https://pt.wikipedia.org/wiki/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1))
 - 👯 Estou procurando colaborar com o [Davi-Gon](https://github.com/Davi-Gon), o mago do VScode
 - 🤔 Estou procurando ajuda em como tornar a tecnologia divertida novamente
 - 💬 Me pergunte sobre filosofia, sou bem iniciante, mas podemos conversar um pouco sobre
 - 📫 Como entrar em contato comigo: tenho um discord: _furry_r_, mas eu provavelmente vou me mijar de medo ao receber sua mensagem, (sou tímido até online)
-- 😄 Pronomes: Furry/ele/dele/Furry Random
+- 😄 Pronomes: Furry/ele/dele/_FR!_
 - ⚡ Fato curioso: Sou aprendiz de tudo, e mestre em nada.
-- 🌈 Fato mais curioso: Essa é uma conta alternativa, desafio você a encontrar a versão séria do meu perfil!
 
 ## Veja uma imagem real de como eu sou na vida real, return 100% True:
 
@@ -45,7 +44,7 @@ Flora:
 Na minha opinião, os dois sistemas são bons, sou feliz nos dois lados ao mesmo tempo que enfrento bugs estranhos, ninguém é perfeito, mas se fosse pra escolher um, acho que ficaria com o linux Mint mesmo.
 
 Utilizo:
-- Windows 11 home
+- Windows 11 Home
 - Linux Mint 22.3 - Cinnamon
 
 _FR!_
